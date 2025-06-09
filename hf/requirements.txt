@@ -1,0 +1,11 @@
+openai
+tqdm
+pydantic
+dotenv
+requests
+datasets
+fastapi
+checkpoints
+torch
+peft
+auto-gptq
