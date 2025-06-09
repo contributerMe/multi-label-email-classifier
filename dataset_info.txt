@@ -1,0 +1,228 @@
+
+============================================================
+EMAIL DATASET GENERATION REPORT
+Generated on: 2025-06-06 13:52:08
+------------------------------------------------------------
+Total emails generated: 500
+Successful: 500
+Failed: 0
+Success rate: 100.0%
+Output file: email_dataset.json
+
+Label distribution:
+  Business: 500
+  Customer Support: 120
+  Events & Invitations: 350
+  Finance & Bills: 48
+  Job Application: 5
+  Newsletters: 19
+  Personal: 2
+  Reminders: 182
+  Travel & Bookings: 31
+
+============================================================
+EMAIL DATASET GENERATION REPORT
+Generated on: 2025-06-06 14:15:34
+------------------------------------------------------------
+Total emails generated: 500
+Successful: 500
+Failed: 0
+Success rate: 100.0%
+Output file: email_dataset.json
+
+Label distribution:
+  Business: 941
+  Customer Support: 227
+  Events & Invitations: 656
+  Finance & Bills: 89
+  Job Application: 6
+  Newsletters: 37
+  Personal: 3
+  Promotions: 1
+  Reminders: 343
+  Travel & Bookings: 47
+
+Label distribution:
+  Business: 941
+  Customer Support: 227
+  Events & Invitations: 656
+  Finance & Bills: 89
+  Job Application: 6
+  Newsletters: 37
+  Personal: 3
+  Promotions: 1
+  Reminders: 343
+  Travel & Bookings: 47
+
+Label distribution:
+  Business: 941
+  Customer Support: 227
+  Events & Invitations: 656
+  Finance & Bills: 89
+  Job Application: 6
+  Newsletters: 37
+  Personal: 3
+  Promotions: 1
+  Reminders: 343
+  Travel & Bookings: 47
+
+============================================================
+EMAIL DATASET GENERATION REPORT
+Generated on: 2025-06-06 14:35:50
+------------------------------------------------------------
+Total emails generated: 100
+Successful: 100
+Failed: 0
+Success rate: 100.0%
+Output file: email_dataset.json
+
+Label distribution:
+  Finance & Bills: 37
+  Job Application: 11
+  Personal: 10
+  Promotions: 2
+  Travel & Bookings: 52
+
+============================================================
+EMAIL DATASET GENERATION REPORT
+Generated on: 2025-06-06 14:56:08
+------------------------------------------------------------
+Total emails generated: 500
+Successful: 500
+Failed: 0
+Success rate: 100.0%
+Output file: email_dataset.json
+
+Label distribution:
+  Finance & Bills: 208
+  Job Application: 77
+  Newsletters: 3
+  Personal: 37
+  Promotions: 5
+  Travel & Bookings: 215
+
+============================================================
+EMAIL DATASET GENERATION REPORT
+Generated on: 2025-06-06 15:00:58
+------------------------------------------------------------
+Total emails generated: 100
+Successful: 100
+Failed: 0
+Success rate: 100.0%
+Output file: email_dataset.json
+
+Label distribution:
+  Job Application: 28
+  Newsletters: 56
+  Personal: 71
+  Promotions: 12
+
+Label distribution:
+  Business: 941
+  Customer Support: 227
+  Events & Invitations: 656
+  Finance & Bills: 334
+  Job Application: 122
+  Newsletters: 96
+  Personal: 121
+  Promotions: 20
+  Reminders: 343
+  Travel & Bookings: 314
+
+============================================================
+EMAIL DATASET GENERATION REPORT
+Generated on: 2025-06-06 15:08:52
+------------------------------------------------------------
+Total emails generated: 100
+Successful: 100
+Failed: 0
+Success rate: 100.0%
+Output file: email_dataset.json
+
+Label distribution:
+  Newsletters: 3
+  Promotions: 100
+
+Label distribution:
+  Newsletters: 3
+  Promotions: 100
+
+Label distribution:
+  Newsletters: 3
+  Promotions: 100
+
+============================================================
+EMAIL DATASET GENERATION REPORT
+Generated on: 2025-06-06 15:14:02
+------------------------------------------------------------
+Total emails generated: 100
+Successful: 100
+Failed: 0
+Success rate: 100.0%
+Output file: email_dataset.json
+
+Label distribution:
+  Newsletters: 103
+  Promotions: 100
+
+Label distribution:
+  Newsletters: 103
+  Promotions: 100
+
+Label distribution:
+  Business: 941
+  Customer Support: 227
+  Events & Invitations: 656
+  Finance & Bills: 334
+  Job Application: 122
+  Newsletters: 199
+  Personal: 121
+  Promotions: 120
+  Reminders: 343
+  Travel & Bookings: 314
+
+============================================================
+EMAIL DATASET GENERATION REPORT
+Generated on: 2025-06-06 15:20:33
+------------------------------------------------------------
+Total emails generated: 100
+Successful: 100
+Failed: 0
+Success rate: 100.0%
+Output file: email_dataset.json
+
+Label distribution:
+  Business: 941
+  Customer Support: 227
+  Events & Invitations: 656
+  Finance & Bills: 334
+  Job Application: 122
+  Newsletters: 199
+  Personal: 221
+  Promotions: 120
+  Reminders: 343
+  Travel & Bookings: 314
+
+Label distribution:
+  Business: 941
+  Customer Support: 227
+  Events & Invitations: 656
+  Finance & Bills: 334
+  Job Application: 122
+  Newsletters: 199
+  Personal: 221
+  Promotions: 120
+  Reminders: 343
+  Travel & Bookings: 314
+
+Label distribution:
+  Business: 941
+  Customer Support: 227
+  Events & Invitations: 656
+  Finance & Bills: 334
+  Job Application: 122
+  Newsletters: 199
+  Personal: 221
+  Promotions: 120
+  Reminders: 343
+  Travel & Bookings: 314
