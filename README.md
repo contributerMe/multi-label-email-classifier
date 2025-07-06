@@ -1,6 +1,6 @@
-# 📨 Multi-Label Email Classifier using fine tuned LLaMA 3.1 (8B)
+# 📨 Multi-Label Email Classifier using fine tuned LLaMA 3.2 (1B)
 
-This project demonstrates how to build a **multi-label email classification system** using **Meta LLaMA 3.1 (8B)** model, fine-tuned using **Parameter-Efficient Fine-Tuning (PEFT)** and deployed using **Gradio on Hugging Face Spaces**. The model can be accessed with [Multi_label Email Classifier](https://huggingface.co/spaces/imnim/Multi-labelEmailClassifier)   
+This project demonstrates how to build a **multi-label email classification system** using **Meta LLaMa 3.2 (1B)** model, fine-tuned using **Parameter-Efficient Fine-Tuning (PEFT)** and deployed using **Gradio on Hugging Face Spaces**. The model can be accessed with [Multi_label Email Classifier](https://huggingface.co/spaces/imnim/Multi-labelEmailClassifier)   
 
 ---
 
@@ -50,7 +50,7 @@ The dataset can be accessed with [Multi-label mail_dataset](https://huggingface.
 
 ##  Model Training
 
-We fine-tuned [`meta-llama/Llama-3.1-8B-Instruct`](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) using the [PEFT](https://github.com/huggingface/peft) library with LoRA adapters. Training was done with:
+We fine-tuned [`meta-llama/Llama-3.1-1B-Instruct`](https://huggingface.co/meta-llama/Llama-3.1-1B-Instruct) using the [PEFT](https://github.com/huggingface/peft) library with LoRA adapters. Training was done with:
 
 - 🤗 Hugging Face transformers
 -  LoRA (for efficient fine-tuning)
